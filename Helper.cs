@@ -1,3 +1,13 @@
+/*
+Helper.cs by mtripg6666tdr
+* https://github.com/mtripg6666tdr
+* https://scrpg.tyanoyu.net/?ref=helper_cs
+
+Distributed under the license: GPL v3.0
+
+Copyright (c) 2016-2020 mtripg6666tdr All Rights Reserved.
+*/
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
