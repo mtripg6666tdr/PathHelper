@@ -1,11 +1,11 @@
 /*
 Helper.cs by mtripg6666tdr
-* https://github.com/mtripg6666tdr
-* https://scrpg.tyanoyu.net/?ref=helper_cs
+* https://github.com/mtripg6666tdr/PathHelper
 
-Distributed under the license: GPL v3.0
+Distributed under MIT License
+You can learn more in the LICENSE file.
 
-Copyright (c) 2016-2020 mtripg6666tdr All Rights Reserved.
+Copyright (c) 2016-2021 mtripg6666tdr All Rights Reserved.
 */
 
 using System;
